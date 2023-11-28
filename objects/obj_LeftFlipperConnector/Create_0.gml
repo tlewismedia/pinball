@@ -9,7 +9,7 @@ joint = physics_joint_revolute_create(
 	-35, 
 	49, 
 	true, 
-	1100000000,
+	1500000000,
 	0,
 	true,
 	false
