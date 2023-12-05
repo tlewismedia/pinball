@@ -5,10 +5,10 @@ joint2 = physics_joint_revolute_create(
 	obj_RightFlipper.id, 
 	self.x, 
 	self.y, 
-	-10, 
-	20, 
+	-20, 
+	45, 
 	true, 
-	1500000000,
+	150000000,
 	0,
 	true,
 	false
