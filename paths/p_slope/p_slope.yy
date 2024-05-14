@@ -1,14 +1,14 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "p_slope",
-  "closed": false,
-  "kind": 1,
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+  "$GMPath":"",
+  "%Name":"p_slope",
+  "closed":false,
+  "kind":1,
+  "name":"p_slope",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
-  "points": [
+  "points":[
     {"speed":100.0,"x":-26.830627,"y":176.31458,},
     {"speed":100.0,"x":2.5451355,"y":194.30724,},
     {"speed":100.0,"x":45.29297,"y":221.29623,},
@@ -24,5 +24,7 @@
     {"speed":100.0,"x":277.28363,"y":287.6137,},
     {"speed":100.0,"x":292.81177,"y":269.76038,},
   ],
-  "precision": 8,
+  "precision":8,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }

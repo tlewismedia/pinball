@@ -1,14 +1,14 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "p_OuterRink",
-  "closed": false,
-  "kind": 1,
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+  "$GMPath":"",
+  "%Name":"p_OuterRink",
+  "closed":false,
+  "kind":1,
+  "name":"p_OuterRink",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
-  "points": [
+  "points":[
     {"speed":100.0,"x":792.18066,"y":1019.6885,},
     {"speed":100.0,"x":766.577,"y":1007.6028,},
     {"speed":100.0,"x":736.6172,"y":988.87787,},
@@ -68,5 +68,7 @@
     {"speed":100.0,"x":1092.4165,"y":994.96704,},
     {"speed":100.0,"x":1043.5154,"y":1021.89014,},
   ],
-  "precision": 8,
+  "precision":8,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }
